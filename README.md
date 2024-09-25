@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nana Akua! <br/><a href="https://github.com/nanabanana-jpeg">Programmer</a>, <a href="https://www.linkedin.com/in/nana-akua-ofori-adu-2616172a8/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Nana Akua! <br/><a href="https://github.com/nanabanana-jpeg">Tinkerer</a>, <a href="https://www.linkedin.com/in/nana-akua-ofori-adu-2616172a8/">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
