@@ -36,7 +36,9 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/nana-akua-ofori-adu-2616172a8/
 
-
+<!---
+nanabanana-jpeg/nanabanana-jpeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @nanabanana-jpeg
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -44,8 +46,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-nanabanana-jpeg/nanabanana-jpeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
