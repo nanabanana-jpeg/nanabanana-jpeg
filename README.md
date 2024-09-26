@@ -1,19 +1,15 @@
-# Hello, I'm Nana Akua
+# Hello, I'm Nana Akua !!
 <a href="www.linkedin.com/in/nana-akua-ofori-adu-2616172a8"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-
-Welcome! I'm passionate about cybersecurity. Specifically governance, compliance, and risk. With my background in science and medicine I bring a unique perspective to the field. I am self-taught in Python, CSA certified in ServiceNow, and hold a COMPTIA certification in Security+. I use this space to showcase my work, share projects, and demonstrate my continuous learning journey. Explore my repositories for a mix of coding projects, cybersecurity insights, and experiments aimed at solving real-world problems.
+Welcome to my Github! I'm very passionate about cybersecurity. Specifically governance, compliance, and risk. With my background in science and medicine I bring a unique perspective to the field. I use this space to showcase my work, share projects, and demonstrate my continuous learning journey. Explore my repositories for a mix of coding projects, cybersecurity insights, and experiments aimed at solving real-world problems.
 
 Feel free to connect or collaborate—I'm always excited to learn and grow!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking to apply my passion for data security and problem-solving to help organizations manage risk and ensure compliance while continuously expanding my knowledge in the field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -48,13 +44,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ServiceNow%20CSA-007ACC?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
 </div>
 
 ## Projects
