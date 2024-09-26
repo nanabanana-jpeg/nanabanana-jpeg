@@ -13,7 +13,7 @@ Seeking to apply my passion for data security and problem-solving to help organi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/nanabanana-jpeg/network-security-tool">Network Security Tool</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/nanabanana-jpeg/network-security-tool">x</a>|
 | Automated Security Compliance Checklist tool | <a href="https://github.com/nanabanana-jpeg/Automated-Compliance-Checklist-Tool"> Compliance Check Tool</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/nanabanana-jpeg/network-security-tool">Network Security Tool</a>||
 
