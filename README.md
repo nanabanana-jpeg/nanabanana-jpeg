@@ -1,5 +1,5 @@
 # Hello, I'm Nana Akua !!
-<a href="www.linkedin.com/in/nana-akua-ofori-adu-2616172a8"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nana-akua-ofori-adu-2616172a8"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my Github! I'm very passionate about cybersecurity. Specifically governance, compliance, and risk. With my background in science and medicine I bring a unique perspective to the field. I use this space to showcase my work, share projects, and demonstrate my continuous learning journey. Explore my repositories for a mix of coding projects, cybersecurity insights, and experiments aimed at solving real-world problems.
 
@@ -13,7 +13,7 @@ Seeking to apply my passion for data security and problem-solving to help organi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/nanabanana-jpeg/network-security-tool">x</a>|
+| SIEM Implementation and Log Analysis          | Coming Soon(WIP)|
 | Automated Security Compliance Checklist tool | <a href="https://github.com/nanabanana-jpeg/Automated-Compliance-Checklist-Tool"> Compliance Check Tool</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/nanabanana-jpeg/network-security-tool">Network Security Tool</a>||
 
